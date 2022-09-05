@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Davma7g [marcie]. I'm a social media and ecommerse consultant.
 - 👀 I’m interested in learning and growing. 
-- 🌱 I’m currently learning marketing, basic HTML and website design, and other ubcattegories that i stumble upon during my journey of helping others.
+- 🌱 I’m currently learning marketing, basic HTML and website design, and other subcattegories that i stumble upon during my journey of helping others.
 - 📫 You can reach me at marcie@cartridgeconnectionak.com
 
 <!---
